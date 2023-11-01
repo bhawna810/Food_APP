@@ -1,6 +1,6 @@
 Fullstack Food Delivery Application using Reactjs, Nodejs and Firebase Cloud Functions
 
-![This is the Project Thumbnail]( https://drive.google.com/file/d/1kGrNbuIeD4JE0KrNtfzPOMd5oLky0jr2/view?usp=sharing)
+[This is the Project Thumbnail]( https://drive.google.com/file/d/1kGrNbuIeD4JE0KrNtfzPOMd5oLky0jr2/view?usp=sharing)
 
 # To check the node version
 
