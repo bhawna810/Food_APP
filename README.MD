@@ -1,6 +1,6 @@
 > Fullstack Food Delivery Application using Reactjs and Firebase
 
-![This is the Project Thumbnail](./recoredr.mp4)
+![This is the Project Thumbnail](./snap.png)
 
 # To check the node bersion
 
