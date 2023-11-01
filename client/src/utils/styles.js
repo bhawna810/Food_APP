@@ -11,7 +11,7 @@ export const statuses = [
     { id: 4, title: "Rice", category: "rice" },
     { id: 5, title: "Curry", category: "curry" },
     { id: 6, title: "Chinese", category: "chinese" },
-    { id: 7, title: "Bread", category: "bread" },
+    { id: 7, title: "Fish", category: "fish" },
   ];
 
   export const randomData = [

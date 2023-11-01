@@ -20,7 +20,7 @@ const DBHome = () => {
   const chinese = products?.filter(
     (item) => item.product_category === "chinese"
   );
-  const bread = products?.filter((item) => item.product_category === "bread");
+  const fish = products?.filter((item) => item.product_category === "bread");
 
   useEffect(() => {
     if (!products) {
@@ -44,7 +44,7 @@ const DBHome = () => {
                   "Fruits",
                   "Rice",
                   "Curry",
-                  "Bread",
+                  "Fish",
                   "Chinese",
                 ],
                 datasets: [
@@ -57,8 +57,8 @@ const DBHome = () => {
                       fruits?.length,
                       rice?.length,
                       curry?.length,
+                      fish?.length,
                       chinese?.length,
-                      bread?.length,
                     ],
                   },
                 ],
